@@ -1,0 +1,20 @@
+{
+  "name": "instascraper",
+  "version": "1.0.0",
+  "description": "instascraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "node": "^16.13.2",
+    "pm2": "^5.2.0",
+    "selfupdate": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
